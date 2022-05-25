@@ -1,0 +1,28 @@
+Checkout my highlights on instagram @rashad.moves
+
+https://www.instagram.com/rashad.moves/
+
+-----------------------------
+Video Chapters
+
+00:00 Intro
+
+-----------------------------
+Video Script
+
+View the full outline of all techniques covered as a raw text file on Github.
+
+https://raw.githubusercontent.com/rashad-moves/YoutubeScripts/main/ScramblersGuide2020/ep2-standup.txt
+
+If the raw doesn't work, you can navigate to Github.com directly. Using the below information, you should end up at the bottom url. But since these urls are subject to change, if a url is deprecated, try navigating manually.
+
+user: rashad-moves
+repository: YoutubeScripts
+folder: ScramblersGuide2020
+file: ep2-standup.txt
+url: https://github.com/rashad-moves/YoutubeScripts/tree/main/ScramblersGuide2020
+
+#wrestling #bjj #mma
+
+-----------------------------------------
+Full disclosure from our gym. This series isn't sponsored by CTA or Caio Terra. For official Caio Terra content, go to https://caioterra.com/
