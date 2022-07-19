@@ -10,17 +10,9 @@ Video Chapters
 -----------------------------
 Video Script
 
-View the full outline of all techniques covered as a raw text file on Github.
+View the full outline of all techniques covered as a text file on my Github.
 
-https://raw.githubusercontent.com/rashad-moves/YoutubeScripts/main/ScramblersGuide2020/ep2-standup.txt
-
-If the raw doesn't work, you can navigate to Github.com directly. Using the below information, you should end up at the bottom url. But since these urls are subject to change, if a url is deprecated, try navigating manually.
-
-user: rashad-moves
-repository: YoutubeScripts
-folder: ScramblersGuide2020
-file: ep2-standup.txt
-url: https://github.com/rashad-moves/YoutubeScripts/tree/main/ScramblersGuide2020
+https://github.com/rashad-moves/YoutubeScripts/tree/main/ScramblersGuide2020
 
 #wrestling #bjj #mma
 
